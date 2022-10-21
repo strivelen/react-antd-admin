@@ -1,0 +1,32 @@
+{
+  "name": "@react-antd-admin/cra-template",
+  "version": "1.0.0",
+  "keywords": [
+    "react-antd-admin",
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template",
+    "antd",
+    "react-admin",
+    "admin-template"
+  ],
+  "homepage": "https://strivelen.github.io/react-antd-admin/",
+  "description": "React Antd Admin 是一个能够快速完成业务且扩展性强的管理系统模板。",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strivelen/react-antd-admin",
+    "directory": "template"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/strivelen/react-antd-admin/issues",
+    "email": "wangl_msg@163.com"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
