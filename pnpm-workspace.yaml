@@ -1,0 +1,7 @@
+packages:
+  # all packages in direct subdirs of packages/
+  - "packages/*"
+  # all docs in subdirs of docusaurus/
+  - "website/**"
+  # exclude packages that are inside test directories
+  - "!**/test/**"
